@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # This is Sanjeev
 
-I am a computer programming enthusiastic and open source contributor.
+I am a computer programming enthusiastic and an open source contributor.
