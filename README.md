@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 I am a computer programming enthusiastic and an open source contributor.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjeev30798&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
