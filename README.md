@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # This is Sanjeev
 
-I am a computer programming enthusiastic and an open source contributor.
+I am a competitive programming enthusiastic and an open source contributor.
 --
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&show_icons=true&theme=synthwave)
