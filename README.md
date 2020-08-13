@@ -20,3 +20,4 @@ I am a computer programming enthusiastic and an open source contributor.
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&show_icons=true&theme=radical)
