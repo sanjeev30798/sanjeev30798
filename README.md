@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a competitive programming enthusiastic and an open source contributor.
 --
-📫 How to reach me: sanjeevkumar30798@gmail.com
+📫 How to reach me: sanjeevkumar30798@gmail.com, [Linkedin](www.linkedin.com/in/sanjeev98)
 
 ![](https://komarev.com/ghpvc/?username=sanjeev30798&color=green)
 
