@@ -21,7 +21,7 @@ I am a competitive programming enthusiastic and an open source contributor.
 📫 How to reach me: sanjeevkumar30798@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=sanjeev30798&color=green)
-![](https://komarev.com/ghpvc/?username=sanjeev30798&color=dc143c)
+![](https://komarev.com/ghpvc/?username=sanjeev30798&style=flat-square)
 
 ![Sanjeev stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&show_icons=true&theme=synthwave)
 --
