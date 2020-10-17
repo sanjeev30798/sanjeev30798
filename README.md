@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 I am a competitive programming enthusiastic and an open source contributor.
 --
-📫 How to reach me: sanjeevkumar30798@gmail.com,
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="sanjeev98"><a class="LI-simple-link" href='https://in.linkedin.com/in/sanjeev98?trk=profile-badge'>Sanjeev Kumar</a></div>
+📫 How to reach me: sanjeevkumar30798@gmail.com, <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="sanjeev98"><a class="LI-simple-link" href='https://in.linkedin.com/in/sanjeev98?trk=profile-badge'>Sanjeev Kumar</a></div>
 
 ![](https://komarev.com/ghpvc/?username=sanjeev30798&color=green)
 
