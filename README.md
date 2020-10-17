@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# This is Sanjeev
-<a href="https://dev.to/sanjeev30798">
+# This is Sanjeev <a href="https://dev.to/sanjeev30798">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sanjeev Kumar's DEV Profile" height="30" width="30">
 </a>
+
 I am a competitive programming enthusiastic and an open source contributor.
 --
 📫 How to reach me: sanjeevkumar30798@gmail.com, [Linkedin](https://www.linkedin.com/in/sanjeev98/)
