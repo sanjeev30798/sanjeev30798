@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # This is Sanjeev
-
+<a href="https://dev.to/sanjeev30798">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sanjeev Kumar's DEV Profile" height="30" width="30">
+</a>
 I am a competitive programming enthusiastic and an open source contributor.
 --
 📫 How to reach me: sanjeevkumar30798@gmail.com, [Linkedin](https://www.linkedin.com/in/sanjeev98/)
@@ -24,7 +26,4 @@ I am a competitive programming enthusiastic and an open source contributor.
 
 ![Sanjeev stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&show_icons=true&theme=synthwave)
 --
-<a href="https://dev.to/sanjeev30798">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sanjeev Kumar's DEV Profile" height="30" width="30">
-</a>
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev30798&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
