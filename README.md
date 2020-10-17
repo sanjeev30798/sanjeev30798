@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 # This is Sanjeev
 I am a competitive programming enthusiastic and an open source contributor.
 --
-📫 How to reach me: sanjeevkumar30798@gmail.com, <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sanjeev98"><a class="LI-simple-link" href='https://in.linkedin.com/in/sanjeev98?trk=profile-badge'>Linkedin  </a><a href="https://dev.to/sanjeev30798">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sanjeev Kumar's DEV Profile" height="30" width="30"></div>
-</a>
+📫 How to reach me: sanjeevkumar30798@gmail.com, <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sanjeev98"><a class="LI-simple-link" href='https://in.linkedin.com/in/sanjeev98?trk=profile-badge'>Linkedin</a></div>
 
 
 ![](https://komarev.com/ghpvc/?username=sanjeev30798&color=green)
