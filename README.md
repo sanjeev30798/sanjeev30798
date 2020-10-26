@@ -20,7 +20,7 @@ I am a competitive programming enthusiastic and an open source contributor.
 📫 How to reach me: sanjeevkumar30798@gmail.com, <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sanjeev98"><a class="LI-simple-link" href='https://in.linkedin.com/in/sanjeev98?trk=profile-badge'>Linkedin</a></div>
 
 
-![](https://komarev.com/ghpvc/?username=sanjeev30798&color=green)
+![](https://komarev.com/ghpvc/?username=sanjeev30798&color=purple)
 
 ![Sanjeev stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&show_icons=true&theme=synthwave)
 --
