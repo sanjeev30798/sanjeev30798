@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # This is Sanjeev
 I am a competitive programming enthusiastic and an open source contributor.
+<br>
 <a href="https://linkedin.com/in/sanjeev98">
   <img align="left" alt="Sanjeev's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" />
 </a>
