@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # This is Sanjeev
 I am a competitive programming enthusiastic and an open source contributor.
 --
-📫 How to reach me: sanjeevkumar30798@gmail.com, sanjeev.k@iiitg.ac.in<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sanjeev98"><a class="fa fa-linkedin" href='https://in.linkedin.com/in/sanjeev98?trk=profile-badge'>Linkedin</a></div>
+📫 How to reach me: sanjeevkumar30798@gmail.com, sanjeev.k@iiitg.ac.in <a class="fa fa-linkedin" href='https://in.linkedin.com/in/sanjeev98?trk=profile-badge'>Linkedin</a></div>
 
 ![Sanjeev stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&show_icons=true&theme=onedark)
 --
