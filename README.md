@@ -33,7 +33,7 @@ I am a competitive programming enthusiastic and an open source contributor.
 <br/>
 
 --
-📫 How to reach me: sanjeevkumar30798@gmail.com, sanjeev.k@iiitg.ac.in 
+📫 How to reach me: sanjeevkumar30798@gmail.com
 
 ![Sanjeev stats](https://github-readme-stats.vercel.app/api?username=sanjeev30798&show_icons=true&theme=onedark)
 --
